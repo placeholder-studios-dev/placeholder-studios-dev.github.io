@@ -1,0 +1,17 @@
+theme: jekyll-theme-slate
+name: (placeholder) studios
+title: (placeholder) studios
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+
+include:
+  - CONTRIBUTING.md
+  - LICENSE.md
+  - COPYING.md
+  - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
+  - ISSUE_TEMPLATE.md
+  - PULL_REQUEST_TEMPLATE.md
