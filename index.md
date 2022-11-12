@@ -18,6 +18,4 @@ Home of the 2D puzzle platformer [chronodrifter](https://placeholder-studios-dev
 
 <a href="https://www.jason-chadwick.com" target="_blank" rel="noopener noreferrer">Jason Chadwick</a> (Programming, game design, level design)
 
-[Navid Mamoon](/pages/navid.md) (Programming, UI)
-
-[Andrew Osborn](/pages/andrew.md) (Programming, art & music design)
+...
