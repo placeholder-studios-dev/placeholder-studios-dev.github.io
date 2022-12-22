@@ -1,4 +1,4 @@
-Home of the 2D puzzle platformer [chronodrifter](https://placeholder-studios-dev.github.io/chronodrifter).
+Home of the 2D puzzle platformer [chronodrifter](https://jasonchadwick.github.io/chronodrifter).
 
 (todo)
 
