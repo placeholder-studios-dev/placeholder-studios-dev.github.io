@@ -6,7 +6,7 @@ Home of the 2D puzzle platformer [chronodrifter](https://placeholder-studios-dev
 
 ### Links
 
-<a href="https://placeholder-studios-dev.github.io/chronodrifter" target="_blank" rel="noopener noreferrer">Chronodrifter live game</a>
+<a href="https://jasonchadwick.github.io/chronodrifter" target="_blank" rel="noopener noreferrer">Chronodrifter live game</a>
 
 <a href="https://github.com/placeholder-studios-dev" target="_blank" rel="noopener noreferrer">Github</a>
 
